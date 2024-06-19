@@ -150,7 +150,7 @@ account.deposit(200, "1234")
 
 print(account.check_balance("1234")) 
 
-account2 = Account("9876543210", "5678", "Alice Johnson", "789 Oak St, Othertown USA", "555-9012")
+account2 = Account("9876543210", "5678", "Alice", " USA", "555-9012")
 account2.deposit(500, "5678")
 
 
